@@ -3,7 +3,11 @@
    <description></description>
    <name>Test-EQUIPE</name>
    <tag></tag>
+<<<<<<< HEAD
    <UUID>e25cc1a4-9b82-4b6e-bdb9-af8bb3da964d</UUID>
+=======
+   <UUID>e4e9b64c-8314-4cc9-b578-120cde9983f7</UUID>
+>>>>>>> branch 'master' of https://github.com/elhabcha/Test-EQUIPE.git
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
    <sourceContent>
