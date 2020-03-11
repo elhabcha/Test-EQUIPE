@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<name>C%%Users%Soukaina.r%git%Test-EQUIPE%Test-EQUIPE.prj</name>
 	<comment></comment>
 	<projects>
@@ -86,6 +87,35 @@
 		<filter>
 			<id>1583933496618</id>
 >>>>>>> branch 'master' of https://github.com/elhabcha/Test-EQUIPE.git
+>>>>>>> branch 'master' of https://github.com/elhabcha/Test-EQUIPE.git
+=======
+	<name>C%%Users%Amina.h%git%Test-EQUIPE%Test-EQUIPE.prj</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.groovy.core.groovyNature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<filteredResources>
+		<filter>
+			<id>1583933495461</id>
+			<name></name>
+			<type>10</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>.*\.svn$</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1583933495467</id>
 >>>>>>> branch 'master' of https://github.com/elhabcha/Test-EQUIPE.git
 			<name></name>
 			<type>6</type>

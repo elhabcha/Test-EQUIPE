@@ -4,6 +4,7 @@
    <name>Test-EQUIPE</name>
    <tag></tag>
 <<<<<<< HEAD
+<<<<<<< HEAD
    <UUID>51fb902c-80af-43d0-83c7-74ae2390be8e</UUID>
 =======
 <<<<<<< HEAD
@@ -11,6 +12,9 @@
 =======
    <UUID>e4e9b64c-8314-4cc9-b578-120cde9983f7</UUID>
 >>>>>>> branch 'master' of https://github.com/elhabcha/Test-EQUIPE.git
+>>>>>>> branch 'master' of https://github.com/elhabcha/Test-EQUIPE.git
+=======
+   <UUID>80ec0d77-a345-4783-9aec-584cb3006233</UUID>
 >>>>>>> branch 'master' of https://github.com/elhabcha/Test-EQUIPE.git
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
