@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS-Abdelmouman,Chrome 80.0.3987.122,,,2020-03-11 13:39:29,2020-03-11 13:39:43,"14,286s",PASSED
+,,,,,,,
+Test Cases/TC-Abdelmouman,Chrome 80.0.3987.122,,,2020-03-11 13:39:29,2020-03-11 13:39:43,"13,998s",PASSED
+"openBrowser("""")",Chrome 80.0.3987.122,,,2020-03-11 13:39:29,2020-03-11 13:39:36,"7,134s",PASSED
+"navigateToUrl(""https://preprod.iadfrance.fr/"")",Chrome 80.0.3987.122,,,2020-03-11 13:39:36,2020-03-11 13:39:42,"5,393s",PASSED
+"click(findTestObject(""Abdelmouman/Page_iad - Vente achat location maison appa_3091d3/a_PRESTIGE""))",Chrome 80.0.3987.122,,,2020-03-11 13:39:42,2020-03-11 13:39:43,"1,111s",PASSED
