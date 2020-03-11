@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Suite SOUKAINA,Chrome 80.0.3987.122,,,2020-03-11 14:42:56,2020-03-11 14:43:09,"13,016s",PASSED
+,,,,,,,
+Test Cases/Case soukaina,Chrome 80.0.3987.122,,,2020-03-11 14:42:57,2020-03-11 14:43:09,"12,710s",PASSED
+"openBrowser("""")",Chrome 80.0.3987.122,,,2020-03-11 14:42:57,2020-03-11 14:43:01,"3,498s",PASSED
+"navigateToUrl(""https://preprod.iadfrance.fr/"")",Chrome 80.0.3987.122,,,2020-03-11 14:43:01,2020-03-11 14:43:06,"5,401s",PASSED
+"click(findTestObject(""Object Repository/SOUKAINA Folder/Page_iad - Vente achat location maison appa_3091d3/a_Louer""))",Chrome 80.0.3987.122,,,2020-03-11 14:43:06,2020-03-11 14:43:09,"2,735s",PASSED
+closeBrowser(),Chrome 80.0.3987.122,,,2020-03-11 14:43:09,2020-03-11 14:43:09,"0,707s",PASSED

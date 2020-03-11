@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Suite SOUKAINA" time="13.345" tests="1" failures="0" errors="0">
+   <testsuite name="Suite SOUKAINA" tests="1" failures="0" errors="0" time="13.345" timestamp="2020-03-11 14:42:56" hostname="Soukaina.r - DESKTOP-2EI41RA" id="Test Suites/Suite SOUKAINA">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Soukaina.r\\git\\Test-EQUIPE\\Reports\\20200311_144254\\Suite SOUKAINA\\20200311_144254"/>
+         <property name="logFiles" value="C:\\Users\\Soukaina.r\\git\\Test-EQUIPE\\Reports\\20200311_144254\\Suite SOUKAINA\\20200311_144254\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Soukaina.r - DESKTOP-2EI41RA"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="7.2.1.1"/>
+         <property name="browser" value="Chrome 80.0.3987.122"/>
+         <property name="hostAddress" value="192.168.1.149"/>
+         <property name="sessionId" value="f7a20b03a9f603bc67dc788bb6fda9d9"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0, executionList=}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Case soukaina" time="12.71" classname="Test Cases/Case soukaina" status="PASSED">
+         <system-out><![CDATA[2020-03-11 14:42:57 - [TEST_CASE][PASSED] - Test Cases/Case soukaina: Test Cases/Case soukaina
+
+2020-03-11 14:42:57 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2020-03-11 14:42:57 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2020-03-11 14:42:58 - [MESSAGE][INFO] - Action delay is set to 0 seconds
+
+2020-03-11 14:43:01 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2020-03-11 14:43:01 - [TEST_STEP][PASSED] - navigateToUrl("https://preprod.iadfrance.fr/"): Navigate to 'https://preprod.iadfrance.fr/' successfully
+
+2020-03-11 14:43:06 - [MESSAGE][PASSED] - Navigate to 'https://preprod.iadfrance.fr/' successfully
+
+2020-03-11 14:43:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/SOUKAINA Folder/Page_iad - Vente achat location maison appa_3091d3/a_Louer")): Object: 'Object Repository/SOUKAINA Folder/Page_iad - Vente achat location maison appa_3091d3/a_Louer' is clicked on
+
+2020-03-11 14:43:09 - [MESSAGE][PASSED] - Object: 'Object Repository/SOUKAINA Folder/Page_iad - Vente achat location maison appa_3091d3/a_Louer' is clicked on
+
+2020-03-11 14:43:09 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2020-03-11 14:43:09 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2020-03-11 14:42:56 - [TEST_SUITE][PASSED] - Suite SOUKAINA: Test Cases/Case soukaina]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
