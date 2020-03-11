@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+jawad1,Chrome 80.0.3987.122,,,2020-03-11 14:04:48,2020-03-11 14:05:03,"14,438s",PASSED
+,,,,,,,
+Test Cases/case jawad,Chrome 80.0.3987.122,,,2020-03-11 14:04:49,2020-03-11 14:05:03,"14,060s",PASSED
+"openBrowser("""")",Chrome 80.0.3987.122,,,2020-03-11 14:04:49,2020-03-11 14:04:53,"4,286s",PASSED
+"navigateToUrl(""https://preprod.iadfrance.fr/"")",Chrome 80.0.3987.122,,,2020-03-11 14:04:53,2020-03-11 14:05:00,"6,443s",PASSED
+"click(findTestObject(""Object Repository/jawad/Page_iad - Vente achat location maison appa_3091d3/a_Acheter""))",Chrome 80.0.3987.122,,,2020-03-11 14:05:00,2020-03-11 14:05:02,"2,093s",PASSED
+closeBrowser(),Chrome 80.0.3987.122,,,2020-03-11 14:05:02,2020-03-11 14:05:03,"0,774s",PASSED
