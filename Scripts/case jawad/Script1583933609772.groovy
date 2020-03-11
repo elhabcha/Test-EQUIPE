@@ -18,6 +18,8 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.acceptAlert()
+
 WebUI.navigateToUrl('https://preprod.iadfrance.fr/')
 
 WebUI.click(findTestObject('Object Repository/jawad/Page_iad - Vente achat location maison appa_3091d3/a_Acheter'))
