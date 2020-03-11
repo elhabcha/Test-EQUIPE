@@ -20,8 +20,6 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://preprod.iadfrance.fr/')
 
-WebUI.waitForPageLoad(0, FailureHandling.STOP_ON_FAILURE)
-
 WebUI.click(findTestObject('Object Repository/jawad/Page_iad - Vente achat location maison appa_3091d3/a_Acheter'))
 
 WebUI.closeBrowser()
